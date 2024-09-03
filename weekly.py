@@ -1,7 +1,7 @@
 import os
 
 import matplotlib
-matplotlib.use('TkAgg')  # Set the backend before importing pyplot
+matplotlib.use('MacOSX')  # Set the backend before importing pyplot
 
 import pandas as pd
 import matplotlib.pyplot as plt
